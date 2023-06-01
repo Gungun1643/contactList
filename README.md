@@ -1,4 +1,8 @@
-# contactList
+
+
+# Contact list
+
+A brief description of what this project does and who it's for
 
 This exceptional code presents a remarkable React component that elegantly showcases a collection of contact cards. With an exquisite blend of creativity and functionality, it utilizes the power of React's dynamic rendering capabilities to effortlessly display a captivating array of contacts.
 
@@ -16,4 +20,37 @@ In summary, this project showcases an extraordinary fusion of creativity, functi
 
 
 
-Tech Stacks used 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Tech Stack
+
+**Client:** React
+
+**Server:** Node, Express
+
